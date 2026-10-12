@@ -1,0 +1,1 @@
+var e=`/pharma-logistics/assets/abstract-ring-BsoY1TMo.jpg`;export{e as t};
